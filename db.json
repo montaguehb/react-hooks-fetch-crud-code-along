@@ -35,6 +35,18 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Greek Yogurt",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Cabbage",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
     }
   ]
 }
